@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Msg</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY CONTENT</string>
+    <string name="button_text">Submit</string>
+    <string name="result_hint">[your converted secret code]</string>
+    <string name="key1_hint">Enter security key 1</string>
+    <string name="key2_hint">Enter security key 2</string>
+    <string name="message_hint">YOUR MESSAGE HERE</string>
+</resources>
